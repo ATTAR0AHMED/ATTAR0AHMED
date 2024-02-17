@@ -8,8 +8,8 @@
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-facebook-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
