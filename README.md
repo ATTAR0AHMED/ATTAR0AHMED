@@ -5,10 +5,10 @@
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/attar_2003?igsh=MWRlNDFrOWVmdXkyZQ==">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
-  <a href="your-facebook-URL">
+  <a href="https://www.facebook.com/profile.php?id=100020958202813&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
