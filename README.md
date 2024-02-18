@@ -3,7 +3,7 @@
   ![ai-bot](https://github.com/ATTAR0AHMED/ATTAR0AHMED/assets/159585034/6ed4c99d-12fe-4c49-a99f-1e633fcf2157)
 </div>
 <div id="badges" align="center">
-  <a href="your-telegram-URL">
+  <a href="https://web.telegram.org/a/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/attar_2003?igsh=MWRlNDFrOWVmdXkyZQ==">
