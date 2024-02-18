@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
+  ![ai-bot](https://github.com/ATTAR0AHMED/ATTAR0AHMED/assets/159585034/6ed4c99d-12fe-4c49-a99f-1e633fcf2157)
 </div>
 <div id="badges" align="center">
   <a href="your-telegram-URL">
