@@ -18,7 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-abdelfadelAchraf&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center" font-weight="bolder">
-<h1 align="center">Hi 👋, I'm ATTAR</h1>
+<h1 align="center" font-weight="bolder">
+  Hi,I'm ATTAR
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   
 ![1_9m-WDdL_ji01bGbjEnutEw](https://github.com/ATTAR0AHMED/ATTAR0AHMED/assets/159585034/e7212023-9ca2-4b4e-8e42-4df72e00156a)
 
